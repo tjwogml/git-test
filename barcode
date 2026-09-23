@@ -18,6 +18,8 @@ while True:
         if key == 27:
             break
 
+나 이 부분 추가할래요.
+
 cap.release()
 cv2.destroyAllWindows()
 
